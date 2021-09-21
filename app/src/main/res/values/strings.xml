@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Winder</string>
-    <string name="title_activity_maps">Map</string>
-    <string name="centerButton">Center Map</string>
-    <string name="mapType">Hybrid Map</string>
-</resources>

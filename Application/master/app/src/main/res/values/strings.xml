@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Windr</string>
+    <string name="title_activity_maps">Windr</string>
+    <string name="centerButton">Center Map</string>
+    <string name="mapType">Satellittkart</string>
+
+    <string name="Vindparker">Vindparker</string>
+    <string name="Kart">Kart</string>
+    <string name="Innstillinger">Innstillinger</string>
+
+    <string name="appInfoButton">Om appen</string>
+    <string name="appInfo"><small>v.1.0.0 a</small>
+        \n\nVelkommen til <i>Windr!</i>
+
+        \n\nDenne appen gir deg nyttig og forhåpentligvis interessant informasjon om vindkraft i Norge.
+        Windr lar deg følge med på de fleste av Norges vindparker.&#185;
+        Du kan bruke kartet til å se hvor i landet parkene ligger, topografien rundt parkene, og ved hjelp av satellittkartet se hvor de individuelle vindturbinene er plassert.
+
+        \n\nWindr tilbyr også vind- og produksjonsdata for vindparkene i sanntid, en søkbar liste med oversikt over parkene og informasjon om CO&#8322; besparelser&#178; som følge av vindkraft.&#179;
+        Du kan også se et estimat på antall husstander en vindpark kan forsyne akkurat nå.
+        Vi håper du vil ha glede av Windr og at du blir med på reisen mot en mer klimavennlig verden!
+
+        \n\n&#8226; Redusert CO&#8322; er beregnet ut i fra gjennomsnittlig CO&#8322;-utslipp per kWh i EU.
+        \n&#8226; Antall husstander som forsynes er beregnet ut i fra gjennomsnittlig strømforbruk per husstand i Norge.
+
+        \n\nHilsen Windr-teamet
+
+        \n\nDu kan nå oss på: <i>mahtiads@uio.no</i>
+
+        <small>\n\n&#185; Windr har ikke alle Norske vindparker.
+        \n&#178; Windr garanterer ikke for faktiske CO&#8322;-reduksjoner og kan ikke stilles til ansvar for global oppvarming.
+        \n&#179; Redusert CO&#8322; er beregnet ut i fra gjennomsnittlig CO&#8322;-utslipp pr kWh i EU.
+        </small>
+
+    </string>
+    <string name="personvernInfoButton">Personvern</string>
+    <string name="personvernInfo"><b>Sist endret:</b> 21. mai 2020
+        \n\nVi i Windr vil ikke på noen tidspunkt hente eller lagre informasjon fra brukeren.
+    </string>
+    <string name="tilgjengelighetInfoButton">Tilgjengelighetserklæring</string>
+    <string name="tilgjengelighetInfo"><b>Sist endret:</b> 21. mai 2020
+        \n\nÅ bruke Windr for dens tiltenkte formål skal være tilgjengelig for alle.
+        Vi har basert oss på WCAG 2.1-standarden som beskrevet på <a href="https://uu.difi.no/">DIFI sine sider</a> for utformingen av appen.
+        Her vil vi oppsummere de punkter som vi har avdekket at Windr avviker fra retningslinjene, med forbehold om at det kan være flere.
+
+        \n\n&#8226; Mangel på tekstalternativer
+        \n\t&#8226; Detaljer: Foreløpig ingen mulighet for alternativer til tekst og ikke-tekstlig innhold.
+        \n\t&#8226; Løsning: Legge til alternativer for stor skrift og blindeskrifttale.
+        \n\t&#8226; Frist for fikset: 31. juni 2020
+
+        \n\n&#8226; Mangel på kontrastfarger
+        \n\t&#8226; Detaljer: Brukere med redusert kontrastsyn eller fargesvake brukere kan ha problemer med å lese informasjon på Windr.
+        \n\t&#8226; Løsning: Legge til mulighet for å ha sterkere kontrastfarger.
+        \n\t&#8226; Frist for fikset: 31. juni 2020
+
+        \n\n&#8226; Mangel på identifikasjon av feil
+        \n\t&#8226; Detaljer: Ved automatisk feil får bruker ikke noe beskjed om hvor og hvorfor feilen oppstod.
+        \n\t&#8226; Løsning: Legge til feilmelding.
+        \n\t&#8226; Frist for fikset: 31. juni 2020
+
+        \n\nIkke nøl med å ta kontakt med oss dersom det skulle være spørsmål eller tilbakemelding om universell utforming i Windr.
+    </string>
+
+    <string name="vindparkNavn">Navn på vindparken</string>
+    <string name="kommune"><i>Kommune:</i></string>
+    <string name="vindstyrke"><i>Vindstyrke:</i></string>
+    <string name="effekt"><i>Installert effekt:</i></string>
+    <string name="sokHint">Skriv inn navn eller kommune her</string>
+    <string name="maksGenerering">Hvor mye parken maksimalt kan generere</string>
+    <string name="sanntidVindstyrke">Vindstyrke i sanntid</string>
+    <string name="kommunenavn">Navn på kommune</string>
+    <string name="vindparknavn">Navn på vindpark</string>
+    <string name="x">X</string>
+    <string name="antHusstander">Antall husstander som kan drives på denne strømmen</string>
+    <string name="sanntidProduksjon">Produksjon i sanntid</string>
+
+</resources>

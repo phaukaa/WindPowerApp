@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // coordName -> lat, lng
+    // all special chars ('space' hyphen - ) replaced with underscore _ while NOR chars remain
+
+    // Agder
+    <array name="Tonstad">
+        <item>6,792803</item>
+        <item>58,53155</item>
+    </array>
+    <array name="Lista">
+        <item>6,681836</item>
+        <item>58,155664</item>
+    </array>
+    // Innlandet
+    <array name="Raskiftet">
+        <item>11,802568</item>
+        <item>61,199542</item>
+    </array>
+    // More og Romsdal
+    <array name="Smøla">
+        <item>7,922753</item>
+        <item>63,407402</item>
+    </array>
+    <array name="Sandøy">
+        <item>6,443655</item>
+        <item>62,76388</item>
+    </array>
+    // Nordland
+    <array name="Ånstadblåheia">
+        <item>15,259676</item>
+        <item>68,724023</item>
+    </array>
+    <array name="Nygårdsfjellet">
+        <item>17,87843</item>
+        <item>68,503908</item>
+    </array>
+    // Rogaland
+    <array name="Berkreim">
+        <item>5,942891</item>
+        <item>58,586624</item>
+    </array>
+    <array name="SkinansfjelletOgGravdal">
+        <item>5,86073</item>
+        <item>58,586955</item>
+    </array>
+    <array name="Skurvenuten">
+        <item>5,907947</item>
+        <item>58,749431</item>
+    </array>
+    <array name="Storøy">
+        <item>5,226863</item>
+        <item>59,415853</item>
+    </array>
+    <array name="Svåheia">
+        <item>6,087737</item>
+        <item>58,38343</item>
+    </array>
+    <array name="Tindafjellet">
+        <item>5,948112</item>
+        <item>58,730357</item>
+    </array>
+    <array name="Egersund">
+        <item>6,084107</item>
+        <item>58,426187</item>
+    </array>
+    <array name="Tellenes">
+        <item>6,435692</item>
+        <item>58,343587</item>
+    </array>
+    <array name="Røymyra">
+        <item>5,727425</item>
+        <item>58,590559</item>
+    </array>
+    <array name="Åsen2">
+        <item>5,753568</item>
+        <item>58,737012</item>
+    </array>
+    <array name="Høg_Jæren">
+        <item>5,754025</item>
+        <item>58,646445</item>
+    </array>
+    <array name="Karmøy_Hywind">
+        <item>5,029747</item>
+        <item>59,140123</item>
+    </array>
+    <array name="Utsira">
+        <item>4,904825</item>
+        <item>59,315697</item>
+    </array>
+    // Troms og Finnmark
+    <array name="Kvitfjell">
+        <item>18,133605</item>
+        <item>69,588058</item>
+    </array>
+    <array name="Hamnefjell">
+        <item>29,711017</item>
+        <item>70,672109</item>
+    </array>
+    <array name="Raggovidda">
+        <item>29,094519</item>
+        <item>70,769057</item>
+    </array>
+    <array name="Fakken">
+        <item>20,107629</item>
+        <item>70,102302</item>
+    </array>
+    <array name="Kjøllefjord">
+        <item>27,268163</item>
+        <item>70,921975</item>
+    </array>
+    <array name="Havøygavlen">
+        <item>24,589283</item>
+        <item>71,011902</item>
+    </array>
+    // Trondelag
+    <array name="Hitra_2">
+        <item>8,768181</item>
+        <item>63,501162</item>
+    </array>
+    <array name="Storheia">
+        <item>10,159199</item>
+        <item>63,879271</item>
+    </array>
+    <array name="Roan">
+        <item>10,298654</item>
+        <item>64,139221</item>
+    </array>
+    <array name="Rye_Vind">
+        <item>10,118075</item>
+        <item>63,418161</item>
+    </array>
+    <array name="Ytre_Vikna">
+        <item>10,888849</item>
+        <item>64,901482</item>
+    </array>
+    <array name="Bessakerfjellet">
+        <item>10,382294</item>
+        <item>64,217132</item>
+    </array>
+    <array name="Valneset">
+        <item>9,629961</item>
+        <item>63,819792</item>
+    </array>
+    <array name="Hitra">
+        <item>8,800896</item>
+        <item>63,519714</item>
+    </array>
+    <array name="Hundhammerfjellet">
+        <item>11,374558</item>
+        <item>64,757473</item>
+    </array>
+    // Vestlandet
+    <array name="Hennøy">
+        <item>5,148969</item>
+        <item>61,794626</item>
+    </array>
+    <array name="Midtfjellet">
+        <item>5,379783</item>
+        <item>59,929296</item>
+    </array>
+    <array name="Mehuken">
+        <item>5,002993</item>
+        <item>62,015344</item>
+    </array>
+    // Viken
+    <array name="Marker">
+        <item>59.4870358</item>
+        <item>11.7277017</item>
+    </array>
+</resources>

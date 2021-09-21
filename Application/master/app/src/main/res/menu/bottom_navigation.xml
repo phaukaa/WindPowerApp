@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navWindParks"
+        android:icon="@drawable/ic_flash_on_black_24dp"
+        android:title="@string/Vindparker"/>
+
+    <item
+        android:id="@+id/navMap"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="@string/Kart"/>
+
+    <item
+        android:id="@+id/navSettings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/Innstillinger"/>
+</menu>

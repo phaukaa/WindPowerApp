@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottomNavigation">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="30sp">
+
+            <Switch
+                android:id="@+id/mapSwitch"
+                android:text="@string/mapType"
+                style="@style/switchSettings"/>
+
+            <ImageView
+                android:id="@+id/windr_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:src="@drawable/windr_text_logo"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:contentDescription="@string/app_name"/>
+
+            <Button
+                android:id="@+id/team24InfoButton"
+                android:text="@string/appInfoButton"
+                style="@style/buttonSettings"/>
+
+            <TextView
+                android:id="@+id/team24Info"
+                android:text="@string/appInfo"
+                style="@style/informationSettings"/>
+
+            <Button
+                android:id="@+id/personvernInfoButton"
+                android:text="@string/personvernInfoButton"
+                style="@style/buttonSettings"/>
+
+            <TextView
+                android:id="@+id/personvernInfo"
+                android:text="@string/personvernInfo"
+                style="@style/informationSettings"/>
+
+            <Button
+                android:id="@+id/tilgjengelighetInfoButton"
+                android:text="@string/tilgjengelighetInfoButton"
+                style="@style/buttonSettings"/>
+
+            <TextView
+                android:id="@+id/tilgjengelighetInfo"
+                android:text="@string/tilgjengelighetInfo"
+                style="@style/informationSettings"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/bottom_navigation"
+        android:background="?android:attr/windowBackground"/>
+</RelativeLayout>
